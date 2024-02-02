@@ -3,12 +3,7 @@
   "version": "1.0.0",
   "description": "Prototyping tool for React/Typescript Applications.",
   "main": "main.js",
-  "contributors": [
-    "Christian Padilla",
-    "Tolga Mizrakci",
-    "Shlomo Porges",
-    "Adam Singer"
-  ],
+
   "repository": {
     "type": "git",
     "url": "https://github.com/team-reactype/ReacType"
